@@ -1,2 +1,2 @@
 # test
-Test
+Connectivity test
